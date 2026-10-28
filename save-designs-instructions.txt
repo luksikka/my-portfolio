@@ -1,0 +1,35 @@
+உங்கள் Design Images-ஐ Save செய்வது எப்படி:
+===========================================
+
+நீங்கள் share செய்த 4 design images-ஐ save செய்யவும்:
+
+படி 1: Images-ஐ Save செய்யவும்
+--------------------------------
+ஒவ்வொரு image-ஐயும் right-click செய்து "Save image as..." select செய்யவும்
+
+Image 1 (Professional Website Development - பெரிய image):
+  → File name: design1.jpg
+  
+Image 2 (Manual vs Systematic Process):
+  → File name: design2.jpg
+  
+Image 3 (Stop Working Manually - Blue theme):
+  → File name: design3.jpg
+  
+Image 4 (Stop Working Manually - Dark theme):
+  → File name: design4.jpg
+
+படி 2: Images-ஐ Portfolio Folder-ல் வைக்கவும்
+--------------------------------------------
+எல்லா 4 images-ஐயும் இந்த location-ல் paste செய்யவும்:
+C:\Users\user\Desktop\portfolio my\
+
+படி 3: முடிந்தது!
+-----------------
+index.html-ஐ refresh செய்யவும் - உங்கள் designs தெரியும்!
+
+✓ File names must be exact: design1.jpg, design2.jpg, design3.jpg, design4.jpg
+✓ All images should be in the portfolio my folder
+✓ If PNG format, rename from design1.png to design1.jpg
+
+Images save செய்தவுடன் சொல்லுங்கள்!

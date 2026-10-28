@@ -1,0 +1,26 @@
+உங்கள் Photo-வை Portfolio-ல் Add செய்வது எப்படி:
+================================================
+
+படி 1: உங்கள் photo-வை prepare செய்யவும்
+-----------------------------------------
+- உங்கள் professional photo-வை எடுக்கவும்
+- அதை "profile-photo.jpg" அல்லது "profile-photo.png" என்று rename செய்யவும்
+
+படி 2: Photo-வை portfolio folder-ல் copy செய்யவும்
+--------------------------------------------------
+- உங்கள் photo file-ஐ copy செய்யவும்
+- இந்த location-க்கு paste செய்யவும்: C:\Users\user\Desktop\portfolio my\
+- File name: profile-photo.jpg (அல்லது .png)
+
+படி 3: முடிந்தது!
+-----------------
+Portfolio website automatically உங்கள் photo-வை display செய்யும்!
+
+Photo Requirements:
+-------------------
+✓ Format: JPG or PNG
+✓ Size: 500x500 pixels (square shape best)
+✓ File name: profile-photo.jpg or profile-photo.png
+✓ Professional looking photo
+
+இந்த steps-ஐ முடித்தவுடன் சொல்லுங்கள், நான் code-ஐ update செய்கிறேன்!
